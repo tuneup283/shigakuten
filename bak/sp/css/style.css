@@ -1,0 +1,546 @@
+@charset "utf-8";
+
+/* ■■■ TOP ■■■ */
+.topField .no_blk {
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 0 !important;
+}
+
+.topField .no_blk img {
+	width: 100%;
+	max-width: 638px;
+	font-size: 0 !important;
+}
+
+.topField #bg_color {
+	background-color: #e5002d;
+}
+
+
+/* ■■■ FLOOR ■■■ */
+#floor h2 {
+	text-align: center;
+}
+
+#floor h2 img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#floor #map {
+	padding: 10px;
+	text-align: center;
+}
+
+#floor #map img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#floor #btn {
+	width: 100%;
+	max-width: 600px;
+	margin: 5px auto;
+}
+
+#floor #btn td {
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+	vertical-align: top;
+	line-height: 2em;
+}
+
+#floor #btn td img {
+	width: 100%;
+	max-width: 220px;
+}
+
+#floor #ad_back {
+	width: 100%;
+	background-color: #999999;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#floor #ad_back table {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+#floor #ad_back table td {
+	vertical-align: middle;
+	color: #ffffff;
+	padding: 5px 10px;
+}
+
+#floor #ad_back table td#ad_btn {
+	width: 35%;
+}
+
+#floor #ad_back table td#ad_btn img {
+	width: 100%;
+	max-width: 173px;
+}
+
+
+/* ■■■ WALK ■■■ */
+#walk h2,
+#walk #advice {
+	text-align: center;
+}
+
+#walk .t_blank {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0 10px 10px;
+}
+
+#walk .t_blank #point {
+	width: 100%;
+	margin: 0 auto 50px;
+	border-top: solid 2px #e9e8e8;
+}
+
+#walk .t_blank #point td {
+	padding: 10px;
+	border-bottom: solid 2px #e9e8e8;
+}
+
+#walk .t_blank #point td.img {
+	width: 20%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#walk .t_blank #point td.img img {
+	width: 100%;
+	max-width: 90px;
+}
+
+#walk .t_blank #point td.txt {
+	width: 80%;
+	font-size: 12px !important;
+	vertical-align: top;
+	line-height: 1.5em;
+}
+
+#walk .t_blank #point td.txt img {
+	width: 80%;
+	max-width: 318px;
+}
+
+#walk .t_blank #walk_way {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#walk .t_blank #walk_way td {
+	padding: 0 !important;
+	line-height: 0 !important;
+	vertical-align: top;
+}
+
+#walk .t_blank #walk_way td img {
+	width: 100%;
+}
+
+#walk .t_blank #walk_way td#photo {
+	width: 44%;
+}
+
+#walk .t_blank #flow {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#walk .t_blank #flow td {
+	padding: 0 !important;
+	line-height: 0 !important;
+	vertical-align: top;
+}
+
+#walk .t_blank #flow td img {
+	width: 100%;
+}
+
+
+#walk .blank {
+	text-align: center;
+	margin: 0px auto 20px;
+	padding: 10px;
+}
+
+#walk .blank2 {
+	text-align: center;
+	margin: 0px auto 15px;
+	padding: 10px 10px 0;
+}
+
+#walk .blank3 {
+	text-align: center;
+	margin: 0px auto 20px;
+	padding: 0 10px 10px;
+}
+
+#walk h2 img,
+#walk #advice img,
+#walk .blank img,
+#walk .blank2 img,
+#walk .blank3 img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#walk .t_blank #t_qa {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#walk .t_blank #t_qa td.question {
+	padding: 0 !important;
+	vertical-align: top;
+}
+
+#walk .t_blank #t_qa td.question img {
+	width: 100%;
+	max-width: 600px;
+	vertical-align: top;
+}
+
+#walk .t_blank #t_qa td.a_img {
+	width: 15%;
+	padding: 0 2% 5% 1.7% !important;
+	vertical-align: top;
+}
+
+#walk .t_blank #t_qa td.a_img img {
+	width: 100%;
+	max-width: 58px;
+	vertical-align: top;
+}
+
+#walk .t_blank #t_qa td.a_txt {
+	padding: 0 !important;
+	vertical-align: top;
+	padding: 1% 5% 5% 2% !important;
+}
+
+
+/* ■■■ CORNER ■■■ */
+#corner h2 {
+	text-align: center;
+}
+
+#corner .blank {
+	max-width: 600px;
+	margin: 0px auto 20px;
+	padding: 10px;
+}
+
+#corner .blank2 {
+	max-width: 600px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+
+#corner h2 img,
+#corner .blank img,
+#corner .blank2 img {
+	width: 100%;
+	max-width: 600px;
+}
+
+.corner-list{
+	max-width: 602px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.corner-list li{
+	margin: 0 0 30px;
+		
+
+}
+.corner-list .ttl{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	box-shadow:4px 2px 8px -1px #b3b2b2;
+	-moz-box-shadow:4px 2px 8px -1px #b3b2b2;
+	-webkit-box-shadow:4px 2px 8px -1px #b3b2b2;
+}
+.corner-list .inner{
+	box-shadow:4px 2px 8px -1px #b3b2b2;
+	-moz-box-shadow:4px 2px 8px -1px #b3b2b2;
+	-webkit-box-shadow:4px 2px 8px -1px #b3b2b2;
+}
+
+.corner-list li p{
+	padding: 20px 30px 20px 39px;
+}
+.corner-list img{
+	vertical-align: bottom;
+	width: 100%;
+	max-width: 602px;
+}
+.corner-list .inner img{
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+	max-width: 598px;
+}
+#goingto {
+	
+
+}
+
+#goingto .inner{
+	border-left: 1px solid #00913a;
+	border-right: 1px solid #00913a;
+	border-bottom: 1px solid #00913a;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	box-shadow:4px 2px 8px -1px #b3b2b2;
+	-moz-box-shadow:4px 2px 8px -1px #b3b2b2;
+	-webkit-box-shadow:4px 2px 8px -1px #b3b2b2;
+
+
+}
+#pamphlet .inner{
+	border-left: 1px solid #71b92b;
+	border-right: 1px solid #71b92b;
+	border-bottom: 1px solid #71b92b;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+#uniform .inner{
+	border-left: 1px solid #25b8cf;
+	border-right: 1px solid #25b8cf;
+	border-bottom: 1px solid #25b8cf;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+#scholarship .inner{
+	border-left: 1px solid #f4a10b;
+	border-right: 1px solid #f4a10b;
+	border-bottom: 1px solid #f4a10b;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+#buy_book .inner{
+	border-left: 1px solid #84519c;
+	border-right: 1px solid #84519c;
+	border-bottom: 1px solid #84519c;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+
+
+
+
+/* ■■■ LIST ■■■ */
+#list h2 {
+	text-align: center;
+}
+
+#list h2 img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#list #padding {
+	padding: 10px;
+}
+
+#list #padding #right {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto 20px;
+	text-align: right;
+}
+
+#list #padding table {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto 30px;
+}
+
+#list #padding td {
+	width: 40%;
+	padding: 1.2% 6% 2% 1.2%;
+	vertical-align: top;
+	text-indent: -1.2em;
+	padding-left: 1em;
+}
+
+#list #padding td.wid {
+	width: 20% !important;
+	padding: 0 !important;
+	max-width: 147px !important;
+	text-indent: 0em !important;
+	padding-left: 0em !important;
+}
+
+#list #padding td a {
+	color: #333333 !important;
+	text-decoration: none !important;
+}
+
+#list #padding td a:hover {
+	color: #cc0000 !important;
+	text-decoration: underline !important;
+}
+
+#list #padding td.wid img {
+	width: 100%;
+	max-width: 147px;
+}
+
+#list #padding span.star {
+	padding-left: 2px !important;
+	padding-right: 0 !important;
+	color: #e73462 !important;
+}
+
+#list #boy {
+	background-color: #eff7fc;
+}
+
+#list #boy td span {
+	padding-right: 2px;
+	color: #52c3f1;
+}
+
+#list #girl {
+	background-color: #fdeff5;
+}
+
+#list #girl td span {
+	padding-right: 2px;
+	color: #ec7aac;
+}
+
+#list #coeducation {
+	background-color: #f8fbf4;
+}
+
+#list #coeducation td span {
+	padding-right: 2px;
+	color: #8dc556;
+}
+
+#list #correspondence {
+	background-color: #fef6e7;
+}
+
+#list #correspondence td span {
+	padding-right: 2px;
+	color: #f7b52c;
+}
+
+
+/* ■■■ ACCESS ■■■ */
+#access h2 {
+	text-align: center;
+}
+
+#access h2 img,
+#access #rail_map p img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#access .blank {
+	max-width: 600px;
+	margin: 0px auto 20px;
+	padding: 10px;
+}
+
+#access #g_map,
+#access #rail_map,
+#access #rail_guide {
+	max-width: 600px;
+	margin: 0px auto 20px;
+	padding: 10px;
+}
+
+#access #rail_map table #left {
+	width: 30%;
+	padding-bottom: 2%;
+}
+
+#access #rail_map table #left img {
+	width: 100%;
+	max-width: 130px;
+	vertical-align: bottom;
+}
+
+#access #rail_map table #center {
+	width: 40%;
+	padding-left: 10px;
+	padding-bottom: 2%;
+}
+
+#access #rail_map table #center img {
+	width: 100%;
+	max-width: 151px;
+	vertical-align: bottom;
+}
+
+#access #rail_map table #right {
+	width: 30%;
+	font-size: 11px;
+	padding-left: 10px;
+	padding-bottom: 2%;
+	vertical-align: bottom;
+}
+
+#access #rail_guide #s_title {
+	width: 100%;
+	padding-bottom: 2%;
+}
+
+#access #rail_guide #s_title img {
+	width: 80%;
+	max-width: 403px;
+}
+
+#access #rail_guide #guide img {
+	width: 100%;
+	max-width: 600px;
+}
+
+#access #rail_guide .indent {
+	line-height: 1.5em;
+	text-indent: -1em;
+	padding-left: 1em;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+#access #rail_guide .indent span {
+	font-size: 14px;
+	color: #e5002d;
+}
+
+#access #rail_guide #building {
+	width: 70%;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+#access #rail_guide #building img {
+	width: 100%;
+	max-width: 440px;
+}
+
+#access #rail_map p img,
+#access #rail_guide #border {
+	width: 100%;
+	border-bottom: dotted 2px #d6d5d4;
+	padding-bottom: 40px;
+}

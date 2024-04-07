@@ -1,0 +1,272 @@
+<div class="STitle">
+<h3>検索結果</h3>
+</div><br>
+<table width="620" border="0" cellspacing="0" cellpadding="0">
+<tr bgcolor="#ffffff"> 
+<td align="right"> 
+<table border="0" cellspacing="0" cellpadding="1">
+<tr>
+<td>
+<img src="image/ico_tyu.gif" border=0>
+</td>
+<td class="rubi">
+中学校 
+</td>
+<td>
+<img src="image/ico_koutou.gif" border=0>
+</td>
+<td class="rubi">
+高等学校 
+</td>
+<td>
+<img src="image/ico_kyoiku.gif" border=0>
+</td>
+<td class="rubi">
+中等教育学校 
+</td>
+<td>
+<img src="image/ico_kyogaku.gif" border=0>
+</td>
+<td class="rubi">
+共学校 
+</td>
+<td>
+<img src="image/ico_man.gif" border=0>
+</td>
+<td class="rubi">
+男子校 
+</td>
+<td>
+<img src="image/ico_woman.gif" border=0>
+</td>
+<td class="rubi">
+女子校 
+</td>
+<td>
+<img src="image/ico_tushin.gif" border=0>
+</td>
+<td class="rubi">
+通信制 
+</td>
+<td>
+<img src="image/ico_ryo.gif" border=0>
+</td>
+<td class="rubi">
+寮有り 
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<?php
+	/* 変数整形 */
+		$_gvars = $_dlv->stripslashArr($_gvars);
+	/* セッションに代入 */
+	if (isSet($_gvars['act']) && $_gvars['act']=="load") $_SESSION['school']['search_dat'] = $_gvars;
+	if ($_SESSION['school']['search_dat'])				 $_svars = $_SESSION['school']['search_dat'];
+	/* SQL */
+	if (isSet($_svars['sex']) && is_array($_svars['sex']))	   $and[] = "(sex=".implode(" or sex=",$_svars['sex']).")";
+	if (isSet($_svars['grade']) && is_array($_svars['grade'])) $and[] = "(grade=".implode(" or grade=",$_svars['grade']).")";
+	if (isSet($_svars['id_area']) && $_svars['id_area'])	   $and[] = "id_area='".$_svars['id_area']."'";
+	if (isSet($_svars['id_line']) && $_svars['id_line'])	   $and[] = "id_line~',".$_svars['id_line'].",'";
+	if (isSet($_svars['id_eki']) && $_svars['id_eki'])		   $and[] = "id_eki~',".$_svars['id_eki'].",'";
+	if ($_svars['others']){
+		$dat=explode(" ",mb_convert_kana($_svars['others'],"s"));
+		foreach(others_fields() as $fld){
+			foreach($dat as $val){
+				if ($val) $or[]="$fld~'$val'";
+			}
+		}
+	}
+	
+	if (isSet($and)) $where.= " AND ".implode(" AND ",$and);
+	if (isSet($or)) $where.= " AND (".implode(" OR ",$or).")";
+	
+	//ページコントロール
+	if (isSet($_gvars['act']) && $_gvars['act']=="load"){
+		$sql_max="SELECT count(id_sch) FROM sch_mst"
+		." WHERE del_flg='f'".$where;
+		$rs_max = pg_exec($con,$sql_max);
+		$_SESSION['school']['search_dat']['max_rows'] = pg_result($rs_max,0,0);
+	}
+	if (isSet($_gvars['offset'])){
+		$_SESSION['school']['search_dat']['offset'] = $_gvars['offset'];
+	} elseif ($_SESSION['school']['search_dat']['offset']){
+		$_gvars['offset'] = $_SESSION['school']['search_dat']['offset'];
+	} else {
+		$_gvars['offset'] = 0;
+	}
+	
+	$sql_sch="SELECT * FROM sch_mst"
+		." WHERE del_flg='f'".$where
+//		." ORDER BY id_sch LIMIT ".BBS_PMAX." OFFSET ".$_gvars['offset'];
+//		." ORDER BY grade,sex,kana LIMIT ".BBS_PMAX." OFFSET ".$_gvars['offset'];
+		." ORDER BY grade,sort_key LIMIT ".BBS_PMAX." OFFSET ".$_gvars['offset'];	//ソート指定変更 2008.6.18
+	if (!pg_exec($con,$sql_sch)) exit;
+	$rs_sch = pg_exec($con,$sql_sch);
+	if (!$sch_rows = pg_numrows($rs_sch)){
+?>
+<table width="620" border="0" cellspacing="0" cellpadding="1">
+<tr bgcolor="#ffffff"> 
+<td> 
+<table width="100%" border="0" cellspacing="1" cellpadding="3">
+<tr> 
+<td><b class="result">学校一覧</b>
+<img src="../image/space.gif" width="30" height="1">
+<b>該当校は見つかりませんでした。</b></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<?php
+	} else {
+?>
+<table width="620" border="0" cellspacing="0" cellpadding="1">
+<tr bgcolor="#ffffff"> 
+<td> 
+<table width="100%" border="0" cellspacing="1" cellpadding="3">
+<tr> 
+<td><b class="result">学校一覧</b>
+<img src="../image/space.gif" width="30" height="1">
+<b>該当校は（<font color=#ff0000><?=$_SESSION['school']['search_dat']['max_rows'];?>件</font>）ありました。</b></td>
+</tr>
+<?php
+	for($n=0; $n < $sch_rows; $n++){
+		$_dat = pg_fetch_array($rs_sch,$n,PGSQL_ASSOC);
+?>
+<tr align="right"> 
+<td bgcolor="#FFFFFF"> 
+<table cellspacing=0 cellpadding=0 width=100% border=0>
+<tbody> 
+<tr bgcolor=#FF6600> 
+<td> 
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
+<tr> 
+<td> 
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+<tr valign="middle" bgcolor="#FFD073"> 
+<td width="53"> 
+<a href="<?=$PHP_SELF;?>?mode=detail&id_sch=<?=$_dat['id_sch'];?>&<?="xxxxx_yyyyy=".md5(md5(date("Y-m-dH:i:s")));?>">
+<img src="image/btn_shosai.gif" border=0>
+</a> 
+</td>
+<td>
+<b><?=$_dat['name'];?></b> </td>
+<td align="right">
+<?//アイコン表示
+		if ($_dat['ryo']) echo'<img src="image/ico_ryo.gif" border=0>';
+		if ($_dat['grade']==0){
+			echo'<img src="image/ico_tyu.gif" border=0>';
+		} elseif ($_dat['grade']==1){
+			echo'<img src="image/ico_koutou.gif" border=0>';
+		} elseif ($_dat['grade']==2){
+			echo'<img src="image/ico_kyoiku.gif" border=0>';
+		}
+		if ($_dat['sex']==0){
+			echo'<img src="image/ico_kyogaku.gif" border=0>';
+		} elseif ($_dat['sex']==1){
+			echo'<img src="image/ico_man.gif" border=0>';
+		} elseif ($_dat['sex']==2){
+			echo'<img src="image/ico_woman.gif" border=0>';
+		} elseif ($_dat['sex']==3){
+			echo'<img src="image/ico_tushin.gif" border=0>';
+		}
+?>
+</td>
+<td width="10" align="right">
+<font color="#FF6600">
+<?=($n+1+$_gvars['offset']);?></font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr> 
+<td bgcolor="#FFFFFF"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<tr bgcolor="#FFFFFF"> 
+<td valign="top" bgcolor="#FFFFFF" width="18%"> 連絡先 </td>
+<td width="82%"> <?=$_dat['tel'];?> </td>
+</tr>
+<tr bgcolor="#FFFFFF"> 
+<td valign="top" bgcolor="#FFFFFF">住所 </td>
+<td> <?=$_dat['jusho'];?> </td>
+</tr>
+<?if ($_dat['kotsu']){?>
+<tr bgcolor="#FFFFFF"> 
+<td valign="top" bgcolor="#FFFFFF">交通の便 </td>
+<td> <?=$_dat['kotsu'];?> </td>
+</tr>
+<?}?>
+<?if ($_dat['comment']){?>
+<tr bgcolor="#FFFFFF"> 
+<td bgcolor="#FFFFFF" valign="top">コメント </td>
+<td> <?=$_dat['comment'];?> </td>
+</tr>
+<?}?>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody> 
+</table>
+</td>
+</tr>
+<?php
+	}
+?>
+</table>
+
+<table width="620" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td height="5" colspan="4"></td>
+</tr>
+<tr> 
+<td width="1%"><img src="image/arrow_left.gif" width="10" height="10" hspace="2"></td>
+<td width="49%">
+<?php
+	if ($_gvars['offset']){
+		if ($_gvars['mode']=="list_all"){
+?>
+<a href="<?=$PHP_SELF;?>?mode=list_all&offset=<?=($_gvars['offset']-BBS_PMAX);?>&<?="xxxxx_yyyyy=".md5(md5(date("Y-m-dH:i:s")));?>">前の<?=BBS_PMAX;?>件</a></td>
+<?
+		} else {
+?>
+<a href="<?=$PHP_SELF;?>?mode=search&offset=<?=($_gvars['offset']-BBS_PMAX);?>&<?="xxxxx_yyyyy=".md5(md5(date("Y-m-dH:i:s")));?>">前の<?=BBS_PMAX;?>件</a></td>
+<?
+		}
+	} else {
+		echo "　";
+	}
+?>
+</td>
+<td width="49%" align="right">
+<?
+	if ((BBS_PMAX+$_gvars['offset'])<$_SESSION['school']['search_dat']['max_rows']){
+		if ($_gvars['mode']=="list_all"){
+?>
+<a href="<?=$PHP_SELF;?>?mode=list_all&offset=<?=($_gvars['offset']+BBS_PMAX);?>&<?="xxxxx_yyyyy=".md5(md5(date("Y-m-dH:i:s")));?>">次の<?=BBS_PMAX;?>件</a>
+<?
+		} else {
+?>
+<a href="<?=$PHP_SELF;?>?mode=search&offset=<?=($_gvars['offset']+BBS_PMAX);?>&<?="xxxxx_yyyyy=".md5(md5(date("Y-m-dH:i:s")));?>">次の<?=BBS_PMAX;?>件</a>
+<?
+		}
+	} else {
+		echo "　";
+	}
+?>
+</td>
+<td width="1%" align="right"><img src="image/arrow_right.gif" width="10" height="10" hspace="2"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<?php
+	}
+?>
