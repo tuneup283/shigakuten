@@ -1,0 +1,11 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+AuthUserFile /home/www/plaaz000/public_html/shigakuten/uniform/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Input ID and Password."
+AuthType Basic
+order deny,allow
+<Files index_test.html>
+require valid-user
+</Files>
