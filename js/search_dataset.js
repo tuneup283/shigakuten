@@ -190,7 +190,7 @@ var school_data = [
 				url: "https://www.less-ar.com/f2e8f45d-8cdc-41d1-8787-38a31447fb3d",
 			},
 			{
-				src: "img/10_3.png",
+				src: "img/大谷_高校・女子・冬服スラックス.png",
 				txt: "高校・女子・冬服スラックス",
 				url: "https://www.less-ar.com/27bb91e8-fe07-4f29-a191-cd3f2c7e3bf9",
 			},
@@ -401,7 +401,7 @@ var school_data = [
 				url: "https://www.less-ar.com/a17e8f7f-6bcf-48b0-8489-7a3ec8077e53",
 			},
 			{
-				src: "img/19_3.png",
+				src: "img/相愛_高校・女子・カジュアル.png",
 				txt: "高校・女子・カジュアル",
 				url: "https://www.less-ar.com/27bb91e8-fe07-4f29-a191-cd3f2c7e3bf9",
 			},
@@ -653,7 +653,7 @@ var school_data = [
 				url: "https://www.less-ar.com/2c769d5b-3028-42ce-8274-65d4161a9c92",
 			},
 		    {
-				src: "img/29_3.png",
+				src: "img/上宮太子_高校・女子・ネクタイ.png",
 				txt: "高校・女子・ネクタイ",
 				url: "https://www.less-ar.com/99d0077b-bfd6-4ff3-9132-36118b7f4a4e",
 			},
@@ -677,12 +677,12 @@ var school_data = [
 		order: "29",
 		qr: [
 			{
-				src: "img/06_2.png",
+				src: "img/ヴェリタス城星学園_高校・女子・冬服(R7新制服).png",
 				txt: "高校・女子・冬服（R7新制服）",
 				url: "https://www.less-ar.com/8f199c47-bf24-4648-be9c-e056d35a4edb",
 			},
 			{
-				src: "img/06_1.png",
+				src: "img/ヴェリタス城星学園_高校・男子・冬服(R7新制服).png",
 				txt: "高校・男子・夏服（R7新制服）",
 				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
@@ -1332,12 +1332,12 @@ var school_data = [
 		order: "49",
 		qr: [
 			{
-				src: "img/49_1.png",
+				src: "img/大阪緑涼_高校・スカート・標準.png",
 				txt: "高校・スカート・標準",
 				url: "https://www.less-ar.com/f7c41da5-235b-4a98-ad59-65bd211c31ba",
 			},
 			{
-				src: "img/49_2.png",
+				src: "img/大阪緑涼_高校・スラックス・標準.png",
 				txt: "高校・スラックス・標準",
 				url: "https://www.less-ar.com/290d2a80-385a-4d5d-aab6-254581fc232b",
 			},
@@ -2225,22 +2225,22 @@ var school_data = [
 		order: "72",
 		qr: [
 			{
-				src: "img/72_4.png",
+				src: "img/精華_高校・男子・冬服.png",
 				txt: "高校・男子・冬服",
 				url: "https://www.less-ar.com/08add659-bbf3-4610-b2f2-4d79f2df9c80",
 			},
 			{
-				src: "img/72_3.png",
+				src: "img/精華_高校・男子・合服.png",
 				txt: "高校・男子・合服",
 				url: "https://www.less-ar.com/159981a7-f5bd-435a-ab06-6b400fbcc8a0",
 			},
 			{
-				src: "img/72_2.png",
+				src: "img/精華_高校・女子・冬服.png",
 				txt: "高校・女子・冬服",
 				url: "https://www.less-ar.com/60a549f3-e44d-4cd7-b5c4-e8f9dd3b2fcd",
 			},
 			{
-				src: "img/72_1.png",
+				src: "img/精華_高校・女子・合服.png",
 				txt: "高校・女子・合服",
 				url: "https://www.less-ar.com/7eb77692-2665-48c5-8dab-43d090a5e812",
 			},
@@ -2751,12 +2751,12 @@ var school_data = [
 				url: "https://www.less-ar.com/47dc7f51-a17b-46b1-aa6f-28545582f5d0",
 			},
 			{
-				src: "img/87_1.png",
+				src: "img/阪南大学_女子・高校・夏服.png",
 				txt: "女子・高校・夏服",
 				url: "https://www.less-ar.com/f4384cd1-30a6-4511-90ff-3dfd554681e0",
 			},
 			{
-			    src: "img/87_1.png",
+			    src: "img/阪南大学_男子・高校・夏服.png",
 			    txt: "男子・高校・夏服",
 			    url: "https://www.less-ar.com/c9690a66-c4d2-4dd7-9a75-97f36e938e0a",
 		    },
@@ -2935,12 +2935,12 @@ var school_data = [
 				url: "https://www.less-ar.com/af4ef33b-fbc2-4136-bd2a-16d29b70d056",
 			},
 			{
-				src: "img/93_5.png",
+				src: "img/桃山学院_中学・冬制服・チノパン.png",
 				txt: "中学・冬制服・チノパン",
 				url: "https://www.less-ar.com/72dd8d6c-aa42-406d-815c-a1189744e85a",
 			},
 			{
-				src: "img/93_1.png",
+				src: "img/桃山学院_中学・冬制服・スカート（プリーツ）.png",
 				txt: "中学・冬制服・スカート（プリーツ）",
 				url: "https://www.less-ar.com/be77567c-4b04-4f3e-a94a-6b2cb88e4a2d",
 			},
@@ -2950,7 +2950,7 @@ var school_data = [
 				url: "https://www.less-ar.com/d4ce4576-0986-4260-b56b-8861bcaf4640",
 			},
 			{
-				src: "img/93_4.png",
+				src: "img/桃山学院_中学・冬制服・パンツ（リボン）.png",
 				txt: "中学・冬制服・パンツ（リボン）",
 				url: "https://www.less-ar.com/6464a1ef-12d8-4978-9216-eb9c38fc4a4e",
 			},
@@ -2993,17 +2993,17 @@ var school_data = [
 		order: "95",
 		qr: [
 			{
-				src: "img/94_1.png",
+				src: "img/履正社_中高共通・女子・夏服（セパレート）.png",
 				txt: "中高共通・女子・夏服（セパレート）",
 				url: "https://www.less-ar.com/c6b7b003-7304-4a7e-beaf-b90c32821fc4",
 			},
 			{
-				src: "img/94_1.png",
+				src: "img/履正社_中高共通・女子・夏服（ワンピース）.png",
 				txt: "中高共通・女子・夏服（ワンピース）",
 				url: "https://www.less-ar.com/89df5491-4c68-406e-a5ae-c39e75d5c580",
 			},
 			{
-				src: "img/94_1.png",
+				src: "img/履正社_高校・男子・冬服.png",
 				txt: "高校・男子・冬服",
 				url: "https://www.less-ar.com/9e14bd47-f98e-461e-9b77-7b1d0c83dfa3",
 			},
@@ -3060,7 +3060,7 @@ var school_data = [
 		order: "98",
 		qr: [
 			{
-				src: "img/98_3.png",
+				src: "img/大阪つくば開成_高校・男子・標準.png",
 				txt: "高校・男子・標準",
 				url: "https://www.less-ar.com/712c5ddf-aff4-4c5a-8d9c-8325bd25f36b",
 			},
@@ -3194,7 +3194,7 @@ var school_data = [
 		order: "106",
 		qr: [
 			{
-				src: "img/105_2.png",
+				src: "img/八洲学園_男子・冬服.png",
 				txt: "男子・冬服",
 				url: "https://www.less-ar.com/47f24d9d-9e6e-490e-9dbb-e3f57fb59624",
 			},
