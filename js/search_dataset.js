@@ -3199,9 +3199,9 @@ var school_data = [
 				url: "https://www.less-ar.com/47f24d9d-9e6e-490e-9dbb-e3f57fb59624",
 			},
 			{
-				src: "img/105_1.png",
+				src: "img/八洲学園_女子・冬服.png",
 				txt: "女子・冬服",
-				url: "",
+				url: "https://www.less-ar.com/fb2f7e6e-2a15-4ce3-87dc-f0b5f5859053",
 			},
 		],
 		id: "h_nagaodani",
