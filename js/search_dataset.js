@@ -683,7 +683,7 @@ var school_data = [
 			},
 			{
 				src: "img/ヴェリタス城星学園_高校・男子・冬服(R7新制服).png",
-				txt: "高校・男子・夏服（R7新制服）",
+				txt: "高校・男子・冬服（R7新制服）",
 				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
 		],
