@@ -2698,7 +2698,7 @@ var school_data = [
 			},
 			{
 				src: "img/86_4.png",
-				txt: "高校・男子・スラックス（R6新）",
+				txt: "高校・男子・夏服（R6新）",
 				url: "https://www.less-ar.com/4bef9037-d96e-487d-8203-4e830be8fbd4",
 			},
 			{
@@ -3063,11 +3063,6 @@ var school_data = [
 				src: "img/大阪つくば開成_高校・男子・標準.png",
 				txt: "高校・男子・標準",
 				url: "https://www.less-ar.com/712c5ddf-aff4-4c5a-8d9c-8325bd25f36b",
-			},
-			{
-				src: "img/98_2.png",
-				txt: "高校・女子・標準2",
-				url: "https://www.less-ar.com/44b949d0-d849-43da-906e-6e45d6b1aec6",
 			},
 		],
 		id: "h_tsukuba-kaisei",
