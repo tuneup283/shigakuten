@@ -192,7 +192,7 @@ var school_data = [
 			{
 				src: "img/大谷_高校・女子・冬服スラックス.png",
 				txt: "高校・女子・冬服スラックス",
-				url: "https://www.less-ar.com/27bb91e8-fe07-4f29-a191-cd3f2c7e3bf9",
+				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
 			{
 				src: "img/10_2.png",
