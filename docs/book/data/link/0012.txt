@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 null
-=======
-[{"id":"2-12","page_no":12,"type":"1","link_page_no":"","link_url":"https:\/\/www.fu-ikuei.or.jp","url":"https:\/\/www.fu-ikuei.or.jp","label":"","tel":"","link_color":"1","x":108.66629933006,"y":540.26497048308,"width":124.80328452684,"height":13.322291510767,"option":"0","icon":""}]
->>>>>>> 8d55cc2f692b890aab346fa7ff0e126f734d14d0

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 [{"id":"2-64","page_no":"64","type":"1","link_page_no":"","link_url":"https:\/\/www.eifu.ed.jp\/","url":"https:\/\/www.eifu.ed.jp\/","label":"","tel":"","link_color":"1","x":299.01041701664,"y":194.73218591502,"width":82.286242012109,"height":7.876644217178,"option":"0","icon":""},{"id":"3-64","page_no":"64","type":"1","link_page_no":"","link_url":"http:\/\/otk.ed.jp\/","url":"http:\/\/otk.ed.jp\/","label":"","tel":"","link_color":"1","x":336.76784382371,"y":490.0195227405,"width":58.039489245325,"height":7.876644217178,"option":"0","icon":""}]
-=======
-[{"id":"2-64","page_no":64,"type":"1","link_page_no":"","link_url":"https:\/\/www.eifu.ed.jp\/","url":"https:\/\/www.eifu.ed.jp\/","label":"","tel":"","link_color":"1","x":299.01118136797,"y":194.73295086056,"width":82.286242012109,"height":7.876644217178,"option":"0","icon":""},{"id":"3-64","page_no":64,"type":"1","link_page_no":"","link_url":"http:\/\/otk.ed.jp\/","url":"http:\/\/otk.ed.jp\/","label":"","tel":"","link_color":"1","x":336.76860817503,"y":490.02028768604,"width":58.039489245325,"height":7.876644217178,"option":"0","icon":""}]
->>>>>>> 8d55cc2f692b890aab346fa7ff0e126f734d14d0
