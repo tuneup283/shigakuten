@@ -3207,3 +3207,13 @@ main {
     margin-top: 20px;
   }
 }/*# sourceMappingURL=style.css.map */
+
+.eventCnt h3{
+  width: 100%;
+        margin-bottom: 20px;
+        padding: 14px 10px;
+        font-size: 1.8rem;
+        font-weight: bold;
+        line-height: 1.2;
+        text-align: center
+}

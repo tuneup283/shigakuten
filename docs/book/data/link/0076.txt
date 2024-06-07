@@ -1,0 +1,1 @@
+[{"id":"18-76","page_no":"76","url":"http:\/\/www.osaka-shigaku.gr.jp","link_page_no":"","link_url":"http:\/\/www.osaka-shigaku.gr.jp","label":"","tel":"","link_color":"1","x":"435","y":"547","width":"8","height":"81","type":"1","icon":"","option":"0"}]
