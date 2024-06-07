@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"id":"2-13","page_no":"13","type":"1","link_page_no":"","link_url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","label":"","tel":"","link_color":"1","x":116.53835363764,"y":603.9765194978,"width":303.04313461319,"height":14.719082065353,"option":"0","icon":""}]
+=======
+[{"id":"2-13","page_no":13,"type":"1","link_page_no":"","link_url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","label":"","tel":"","link_color":"1","x":106.84485011994,"y":603.67666084643,"width":286.50027886224,"height":14.718317119814,"option":"0","icon":""}]
+>>>>>>> 8d55cc2f692b890aab346fa7ff0e126f734d14d0

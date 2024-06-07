@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"id":"2-46","page_no":"46","type":"1","link_page_no":"","link_url":"https:\/\/keonguk.ac.jp","url":"https:\/\/keonguk.ac.jp","label":"","tel":"","link_color":"1","x":299.00888831399,"y":194.73295086056,"width":77.684082677615,"height":7.876644217178,"option":"0","icon":""},{"id":"3-46","page_no":"46","type":"1","link_page_no":"","link_url":"https:\/\/kenmei.jp","url":"https:\/\/kenmei.jp","label":"","tel":"","link_color":"1","x":314.1132348692,"y":490.02028768604,"width":63.081914943656,"height":7.876644217178,"option":"0","icon":""}]
+=======
+[{"id":"2-46","page_no":46,"type":"1","link_page_no":"","link_url":"https:\/\/keonguk.ac.jp","url":"https:\/\/keonguk.ac.jp","label":"","tel":"","link_color":"1","x":299.00965266532,"y":194.73295086056,"width":77.684082677615,"height":7.876644217178,"option":"0","icon":""},{"id":"3-46","page_no":46,"type":"1","link_page_no":"","link_url":"https:\/\/kenmei.jp","url":"https:\/\/kenmei.jp","label":"","tel":"","link_color":"1","x":314.1132348692,"y":490.02028768604,"width":63.081914943656,"height":7.876644217178,"option":"0","icon":""}]
+>>>>>>> 8d55cc2f692b890aab346fa7ff0e126f734d14d0

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 null
+=======
+[{"id":"2-16","page_no":16,"type":"1","link_page_no":"","link_url":"http:\/\/www.osakaseiko.ac.jp\/","url":"http:\/\/www.osakaseiko.ac.jp\/","label":"","tel":"","link_color":"1","x":324.80650992145,"y":490.28648873368,"width":97.328676109905,"height":7.8774091627172,"option":"0","icon":""}]
+>>>>>>> 8d55cc2f692b890aab346fa7ff0e126f734d14d0
