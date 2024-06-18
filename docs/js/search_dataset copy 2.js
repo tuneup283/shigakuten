@@ -528,7 +528,7 @@
     },
     {
       "id": "h_atsushibaritsumeikan",
-      "name": "初芝立命館",
+      "name": "利晶学園大阪立命館",
       "school": "高等学校",
       "sex": "共学校"
     },

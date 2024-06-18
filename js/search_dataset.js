@@ -2688,55 +2688,7 @@ var school_data = [
 		school: ["中学校", "高等学校"],
 		sex: "共学校",
 	},
-	{
-		order: "86",
-		qr: [
-			{
-				src: "img/86_3.png",
-				txt: "高校・男子・冬服（R6新）",
-				url: "https://www.less-ar.com/992f1bc1-3753-4661-bb06-b44f708c68f1",
-			},
-			{
-				src: "img/86_4.png",
-				txt: "高校・男子・夏服（R6新）",
-				url: "https://www.less-ar.com/4bef9037-d96e-487d-8203-4e830be8fbd4",
-			},
-			{
-				src: "img/86_2.png",
-				txt: "高校・女子・冬服（R6新）",
-				url: "https://www.less-ar.com/74e1f0d1-9124-4fcb-83b4-9253e3a3e938",
-			},
-			{
-				src: "img/86_1.png",
-				txt: "高校・女子・夏服（R6新）",
-				url: "https://www.less-ar.com/26531c9f-5835-4db0-8be4-d4b4b2007cc6",
-			},
-			{
-				src: "img/86_8.png",
-				txt: "中学・男子・冬服",
-				url: "https://www.less-ar.com/0cc8a848-2b87-4ef6-8c37-bd05c2b64a7d",
-			},
-			{
-				src: "img/86_7.png",
-				txt: "中学・男子・夏服",
-				url: "https://www.less-ar.com/a74b9577-32cd-4b8f-ae25-7a7a483ca22a",
-			},
-			{
-				src: "img/86_6.png",
-				txt: "中学・女子・冬服",
-				url: "https://www.less-ar.com/aec76348-ff3c-4683-9174-b16cd7b1f853",
-			},
-			{
-				src: "img/86_5.png",
-				txt: "中学・女子・夏服",
-				url: "https://www.less-ar.com/55d6de16-9259-4961-b695-16f04654a70c",
-			},
-		],
-		id: "j_atsushibaritsumeikan",
-		name: "初芝立命館",
-		school: ["中学校", "高等学校"],
-		sex: "共学校",
-	},
+
 	{
 		order: "87",
 		qr: [
@@ -2989,6 +2941,55 @@ var school_data = [
 		school: "高等学校",
 		sex: "共学校",
 	},
+  {
+		order: "94",
+		qr: [
+			{
+				src: "img/86_3.png",
+				txt: "高校・男子・冬服（R6新）",
+				url: "https://www.less-ar.com/992f1bc1-3753-4661-bb06-b44f708c68f1",
+			},
+			{
+				src: "img/86_4.png",
+				txt: "高校・男子・夏服（R6新）",
+				url: "https://www.less-ar.com/4bef9037-d96e-487d-8203-4e830be8fbd4",
+			},
+			{
+				src: "img/86_2.png",
+				txt: "高校・女子・冬服（R6新）",
+				url: "https://www.less-ar.com/74e1f0d1-9124-4fcb-83b4-9253e3a3e938",
+			},
+			{
+				src: "img/86_1.png",
+				txt: "高校・女子・夏服（R6新）",
+				url: "https://www.less-ar.com/26531c9f-5835-4db0-8be4-d4b4b2007cc6",
+			},
+			{
+				src: "img/86_8.png",
+				txt: "中学・男子・冬服",
+				url: "https://www.less-ar.com/0cc8a848-2b87-4ef6-8c37-bd05c2b64a7d",
+			},
+			{
+				src: "img/86_7.png",
+				txt: "中学・男子・夏服",
+				url: "https://www.less-ar.com/a74b9577-32cd-4b8f-ae25-7a7a483ca22a",
+			},
+			{
+				src: "img/86_6.png",
+				txt: "中学・女子・冬服",
+				url: "https://www.less-ar.com/aec76348-ff3c-4683-9174-b16cd7b1f853",
+			},
+			{
+				src: "img/86_5.png",
+				txt: "中学・女子・夏服",
+				url: "https://www.less-ar.com/55d6de16-9259-4961-b695-16f04654a70c",
+			},
+		],
+		id: "j_atsushibaritsumeikan",
+		name: "利晶学園大阪立命館",
+		school: ["中学校", "高等学校"],
+		sex: "共学校",
+	},
 	{
 		order: "95",
 		qr: [
@@ -3038,7 +3039,7 @@ var school_data = [
 			},
 		],
 		id: "h_waseda-setsuryo",
-		name: "早稲田摂陵",
+		name: "早稲田大阪",
 		school: "高等学校",
 		sex: "共学校",
 	},
