@@ -1662,7 +1662,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_01.jpg",
 
-                caption: "初芝立命館1"
+                caption: "利晶学園大阪立命館1"
 
             },
 
@@ -1670,7 +1670,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_02.jpg",
 
-                caption: "初芝立命館2"
+                caption: "利晶学園大阪立命館2"
 
             },
 
@@ -1678,7 +1678,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_03.jpg",
 
-                caption: "初芝立命館3"
+                caption: "利晶学園大阪立命館3"
 
             },
 
@@ -1686,7 +1686,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_04.jpg",
 
-                caption: "初芝立命館4"
+                caption: "利晶学園大阪立命館4"
 
             }
 
@@ -4523,7 +4523,7 @@
 
                 url: "img/img_uniform_h_275.jpg",
 
-                caption: "初芝立命館1"
+                caption: "利晶学園大阪立命館1"
 
             },
 
@@ -4531,7 +4531,7 @@
 
                 url: "img/img_uniform_h_276.jpg",
 
-                caption: "初芝立命館2"
+                caption: "利晶学園大阪立命館2"
 
             },
 
@@ -4539,7 +4539,7 @@
 
                 url: "img/img_uniform_h_277.jpg",
 
-                caption: "初芝立命館3"
+                caption: "利晶学園大阪立命館3"
 
             },
 
@@ -4547,7 +4547,7 @@
 
                 url: "img/img_uniform_h_278.jpg",
 
-                caption: "初芝立命館4"
+                caption: "利晶学園大阪立命館4"
 
             }
 
@@ -4799,7 +4799,7 @@
 
                 url: "img/img_uniform_h_305.jpg",
 
-                caption: "早稲田摂陵1"
+                caption: "早稲田大阪1"
 
             },
 
@@ -4807,7 +4807,7 @@
 
                 url: "img/img_uniform_h_306.jpg",
 
-                caption: "早稲田摂陵2"
+                caption: "早稲田大阪2"
 
             },
 
@@ -4815,7 +4815,7 @@
 
                 url: "img/img_uniform_h_307.jpg",
 
-                caption: "早稲田摂陵3"
+                caption: "早稲田大阪3"
 
             },
 
@@ -4823,7 +4823,7 @@
 
                 url: "img/img_uniform_h_308.jpg",
 
-                caption: "早稲田摂陵4"
+                caption: "早稲田大阪4"
 
             }
 
