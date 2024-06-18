@@ -1,0 +1,1 @@
+[{"id":"2-13","page_no":13,"type":"1","link_page_no":"","link_url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","url":"https:\/\/www.pref.osaka.lg.jp\/shigaku\/shigakumushouka\/","label":"","tel":"","link_color":"1","x":106.84485011994,"y":603.67666084643,"width":286.50027886224,"height":14.718317119814,"option":"0","icon":""}]

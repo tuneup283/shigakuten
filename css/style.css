@@ -3206,4 +3206,18 @@ main {
     font-size: 1.25em;
     margin-top: 20px;
   }
+<<<<<<< HEAD
 }/*# sourceMappingURL=style.css.map */
+=======
+}/*# sourceMappingURL=style.css.map */
+
+.eventCnt h3{
+  width: 100%;
+        margin-bottom: 20px;
+        padding: 14px 10px;
+        font-size: 1.8rem;
+        font-weight: bold;
+        line-height: 1.2;
+        text-align: center
+}
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554

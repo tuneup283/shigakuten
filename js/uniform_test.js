@@ -1662,7 +1662,11 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_01.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館1"
+=======
+                caption: "初芝立命館1"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -1670,7 +1674,11 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_02.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館2"
+=======
+                caption: "初芝立命館2"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -1678,7 +1686,11 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_03.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館3"
+=======
+                caption: "初芝立命館3"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -1686,7 +1698,11 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_04.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館4"
+=======
+                caption: "初芝立命館4"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             }
 
@@ -4523,7 +4539,11 @@
 
                 url: "img/img_uniform_h_275.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館1"
+=======
+                caption: "初芝立命館1"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4531,7 +4551,11 @@
 
                 url: "img/img_uniform_h_276.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館2"
+=======
+                caption: "初芝立命館2"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4539,7 +4563,11 @@
 
                 url: "img/img_uniform_h_277.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館3"
+=======
+                caption: "初芝立命館3"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4547,7 +4575,11 @@
 
                 url: "img/img_uniform_h_278.jpg",
 
+<<<<<<< HEAD
                 caption: "利晶学園大阪立命館4"
+=======
+                caption: "初芝立命館4"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             }
 
@@ -4799,7 +4831,11 @@
 
                 url: "img/img_uniform_h_305.jpg",
 
+<<<<<<< HEAD
                 caption: "早稲田大阪1"
+=======
+                caption: "早稲田摂陵1"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4807,7 +4843,11 @@
 
                 url: "img/img_uniform_h_306.jpg",
 
+<<<<<<< HEAD
                 caption: "早稲田大阪2"
+=======
+                caption: "早稲田摂陵2"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4815,7 +4855,11 @@
 
                 url: "img/img_uniform_h_307.jpg",
 
+<<<<<<< HEAD
                 caption: "早稲田大阪3"
+=======
+                caption: "早稲田摂陵3"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             },
 
@@ -4823,7 +4867,11 @@
 
                 url: "img/img_uniform_h_308.jpg",
 
+<<<<<<< HEAD
                 caption: "早稲田大阪4"
+=======
+                caption: "早稲田摂陵4"
+>>>>>>> 2d280f82ed4b044316332bd2a9cd540595692554
 
             }
 
