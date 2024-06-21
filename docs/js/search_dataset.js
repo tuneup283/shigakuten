@@ -2733,7 +2733,7 @@ var school_data = [
 			},
 		],
 		id: "j_atsushibaritsumeikan",
-		name: "利晶学園大阪立命館",
+		name: "利晶学園大阪立命館（現・初芝立命館）",
 		school: ["中学校", "高等学校"],
 		sex: "共学校",
 	},
@@ -2966,7 +2966,7 @@ var school_data = [
 			{
 				src: "img/23_4.png",
 				txt: "高校・男子・冬服ブレザー",
-				url: "https://www.less-ar.com/659be102-f8dc-4ff6-820f-6b0406775d74",
+				url: "https://www.less-ar.com/9f4ee8c6-863a-44be-88e1-6da14738990a",
 			},
 			{
 				src: "img/23_2.png",
@@ -3038,7 +3038,7 @@ var school_data = [
 			},
 		],
 		id: "h_waseda-setsuryo",
-		name: "早稲田大阪",
+		name: "早稲田大阪（現・早稲田摂陵）",
 		school: "高等学校",
 		sex: "共学校",
 	},

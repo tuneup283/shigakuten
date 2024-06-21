@@ -1662,7 +1662,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_01.jpg",
 
-                caption: "利晶学園大阪立命館1"
+                caption: "利晶学園大阪立命館（現・初芝立命館）1"
 
             },
 
@@ -1670,7 +1670,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_02.jpg",
 
-                caption: "利晶学園大阪立命館2"
+                caption: "利晶学園大阪立命館（現・初芝立命館）2"
 
             },
 
@@ -1678,7 +1678,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_03.jpg",
 
-                caption: "利晶学園大阪立命館3"
+                caption: "利晶学園大阪立命館（現・初芝立命館）3"
 
             },
 
@@ -1686,7 +1686,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_04.jpg",
 
-                caption: "利晶学園大阪立命館4"
+                caption: "利晶学園大阪立命館（現・初芝立命館）4"
 
             }
 
@@ -4523,7 +4523,7 @@
 
                 url: "img/img_uniform_h_275.jpg",
 
-                caption: "利晶学園大阪立命館1"
+                caption: "利晶学園大阪立命館（現・初芝立命館）1"
 
             },
 
@@ -4531,7 +4531,7 @@
 
                 url: "img/img_uniform_h_276.jpg",
 
-                caption: "利晶学園大阪立命館2"
+                caption: "利晶学園大阪立命館（現・初芝立命館）2"
 
             },
 
@@ -4539,7 +4539,7 @@
 
                 url: "img/img_uniform_h_277.jpg",
 
-                caption: "利晶学園大阪立命館3"
+                caption: "利晶学園大阪立命館（現・初芝立命館）3"
 
             },
 
@@ -4547,7 +4547,7 @@
 
                 url: "img/img_uniform_h_278.jpg",
 
-                caption: "利晶学園大阪立命館4"
+                caption: "利晶学園大阪立命館（現・初芝立命館）4"
 
             }
 
@@ -4799,7 +4799,7 @@
 
                 url: "img/img_uniform_h_305.jpg",
 
-                caption: "早稲田大阪1"
+                caption: "早稲田大阪（現・早稲田摂陵）1"
 
             },
 
@@ -4807,7 +4807,7 @@
 
                 url: "img/img_uniform_h_306.jpg",
 
-                caption: "早稲田大阪2"
+                caption: "早稲田大阪（現・早稲田摂陵）2"
 
             },
 
@@ -4815,7 +4815,7 @@
 
                 url: "img/img_uniform_h_307.jpg",
 
-                caption: "早稲田大阪3"
+                caption: "早稲田大阪（現・早稲田摂陵）3"
 
             },
 
@@ -4823,7 +4823,7 @@
 
                 url: "img/img_uniform_h_308.jpg",
 
-                caption: "早稲田大阪4"
+                caption: "早稲田大阪（現・早稲田摂陵）4"
 
             }
 
