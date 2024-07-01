@@ -478,7 +478,7 @@ main {
 
 @media screen and (max-width: 480px) {
   .mainimg {
-    padding-top: 10px;
+    /* padding-top: 10px; */
   }
 }
 .mainimg_catch {
@@ -2561,6 +2561,13 @@ main {
   background-size: 100%;
 }
 #info .eventCnt_list li .download .btn-07.none {
+  display: none;
+}
+#info .eventCnt_list li .download .btn-08 {
+  background: url("../info/img/icon_dl_08.png") no-repeat center center;
+  background-size: 100%;
+}
+#info .eventCnt_list li .download .btn-08.none {
   display: none;
 }
 

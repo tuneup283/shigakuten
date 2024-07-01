@@ -478,7 +478,7 @@ main {
 
 @media screen and (max-width: 480px) {
   .mainimg {
-    padding-top: 10px;
+    /* padding-top: 10px; */
   }
 }
 .mainimg_catch {
