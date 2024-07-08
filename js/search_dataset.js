@@ -403,7 +403,7 @@ var school_data = [
 			{
 				src: "img/相愛_高校・女子・カジュアル.png",
 				txt: "高校・女子・カジュアル",
-				url: "https://www.less-ar.com/27bb91e8-fe07-4f29-a191-cd3f2c7e3bf9",
+				url: "https://www.less-ar.com/becf000a-f0d7-4f57-96ee-c5f3a569387b",
 			},
 			{
 				src: "img/19_1.png",
