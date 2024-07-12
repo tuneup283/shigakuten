@@ -1863,7 +1863,7 @@ main {
       padding: 15px 0; }
       @media screen and (max-width: 480px) {
         #info .eventCnt_list li {
-          padding: 20px 0; } }
+          padding: 20px 0 20px 20px; } }
       #info .eventCnt_list li + li {
         border-top: solid #ccc 1px; }
       @media screen and (max-width: 480px) {

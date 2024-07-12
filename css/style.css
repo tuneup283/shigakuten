@@ -2573,7 +2573,7 @@ main {
 
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li div.download {
-    justify-content: space-between;
+    justify-content: left;
   }
   #info .eventCnt_list li div.download a.btn {
     width: 20%;
@@ -2698,12 +2698,12 @@ main {
 }
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li .download .btn + .btn {
-    margin-left: 5px;
+    margin-left: 10px;
   }
 }
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li .download .btn:nth-child(5) {
-    margin-left: 0;
+    margin-left: 10px;
   }
 }
 @media screen and (max-width: 480px) {
@@ -2727,6 +2727,7 @@ main {
   #info .eventCnt_list li .download .btn-00 {
     background: #1373c7 url("../info/img/icon_dl_00.png") no-repeat center top 3px;
     background-size: 45px;
+    margin-left: 10px;
   }
 }
 @media screen and (max-width: 480px) {
