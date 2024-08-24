@@ -1723,7 +1723,8 @@ main {
 @media screen and (max-width: 480px) {
   .movie_cnt {
     width: 100%;
-    height: 200px;
+    height: 400px;
+    flex-direction: column;
   }
   .movie_cnt iframe {
     width: 100%;
