@@ -1709,8 +1709,8 @@ main {
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: center;
-  background: #b3b3b3;
+  justify-content: space-around;
+  /* background: #b3b3b3; */
   width: 800px;
   height: 315px;
   margin: 0 auto;
@@ -1728,7 +1728,7 @@ main {
   }
   .movie_cnt iframe {
     width: 100%;
-    height: 200px;
+    height: 180px;
   }
 }
 .school .accordion {
