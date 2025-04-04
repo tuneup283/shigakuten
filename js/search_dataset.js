@@ -686,6 +686,16 @@ var school_data = [
 				txt: "高校・男子・冬服（R7新制服）",
 				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
+			{
+				src: "img/ヴェリタス城星学園_高校・女子・夏服).png",
+				txt: "高校・男子・冬服（R7新制服）",
+				url: "https://www.less-ar.com/a397977a-15bf-4532-862f-5d91c94353d1",
+			},
+			{
+				src: "img/ヴェリタス城星学園_高校・男子・夏服).png",
+				txt: "高校・男子・冬服（R7新制服）",
+				url: "https://www.less-ar.com/e0f8a8c5-8e06-437b-a4e0-7473dc836dd2",
+			},
 		],
 		id: "h_veritas",
 		name: "ヴェリタス城星学園",
