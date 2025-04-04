@@ -3039,7 +3039,7 @@ var school_data = [
 			},
 		],
 		id: "h_waseda-setsuryo",
-		name: "早稲田大阪（現・早稲田摂陵）",
+		name: "早稲田大阪",
 		school: "高等学校",
 		sex: "共学校",
 	},

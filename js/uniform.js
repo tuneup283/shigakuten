@@ -4823,7 +4823,7 @@
 
                 url: "img/img_uniform_h_305.jpg",
 
-                caption: "早稲田大阪（現・早稲田摂陵）1"
+                caption: "早稲田大阪1"
 
             },
 
@@ -4831,7 +4831,7 @@
 
                 url: "img/img_uniform_h_306.jpg",
 
-                caption: "早稲田大阪（現・早稲田摂陵）2"
+                caption: "早稲田大阪2"
 
             },
 
@@ -4839,7 +4839,7 @@
 
                 url: "img/img_uniform_h_307.jpg",
 
-                caption: "早稲田大阪（現・早稲田摂陵）3"
+                caption: "早稲田大阪3"
 
             },
 
@@ -4847,7 +4847,7 @@
 
                 url: "img/img_uniform_h_308.jpg",
 
-                caption: "早稲田大阪（現・早稲田摂陵）4"
+                caption: "早稲田大阪4"
 
             }
 

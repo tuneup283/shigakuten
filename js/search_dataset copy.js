@@ -2882,22 +2882,22 @@
         "qr": [
             {
                 "src": "img/95_1.png",
-                "txt": "早稲田大阪（現・早稲田摂陵）・女子オプションスカートチェック",
+                "txt": "早稲田大阪・女子オプションスカートチェック",
                 "url": "https://www.less-ar.com/496d3a4c-97a2-43a2-baf3-71cc31f17e5c"
             },
             {
                 "src": "img/95_2.png",
-                "txt": "早稲田大阪（現・早稲田摂陵）・女子・冬服上下",
+                "txt": "早稲田大阪・女子・冬服上下",
                 "url": "https://www.less-ar.com/e1249997-0d33-4c28-a942-282a8145965b"
             },
             {
                 "src": "img/95_3.png",
-                "txt": "早稲田大阪（現・早稲田摂陵）・男子・冬服上下",
+                "txt": "早稲田大阪・男子・冬服上下",
                 "url": "https://www.less-ar.com/cf43b817-1aad-4631-bec5-aaf0c59b882b"
             }
         ],
         "id": "h_waseda-setsuryo",
-        "name": "早稲田大阪（現・早稲田摂陵）",
+        "name": "早稲田大阪",
         "school": "高等学校",
         "sex": "共学校"
     },
