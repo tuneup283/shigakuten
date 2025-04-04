@@ -2986,7 +2986,7 @@ var school_data = [
 			},
 		],
 		id: "j_atsushibaritsumeikan",
-		name: "利晶学園大阪立命館（現・初芝立命館）",
+		name: "利晶学園大阪立命館",
 		school: ["中学校", "高等学校"],
 		sex: "共学校",
 	},

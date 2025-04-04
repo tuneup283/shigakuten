@@ -1670,7 +1670,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_01.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）1"
+                caption: "利晶学園大阪立命館1"
 
             },
 
@@ -1678,7 +1678,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_02.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）2"
+                caption: "利晶学園大阪立命館2"
 
             },
 
@@ -1686,7 +1686,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_03.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）3"
+                caption: "利晶学園大阪立命館3"
 
             },
 
@@ -1694,7 +1694,7 @@
 
                 url: "img/img_j_056hatsushibaritsumeikan_04.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）4"
+                caption: "利晶学園大阪立命館4"
 
             }
 
@@ -4547,7 +4547,7 @@
 
                 url: "img/img_uniform_h_275.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）1"
+                caption: "利晶学園大阪立命館1"
 
             },
 
@@ -4555,7 +4555,7 @@
 
                 url: "img/img_uniform_h_276.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）2"
+                caption: "利晶学園大阪立命館2"
 
             },
 
@@ -4563,7 +4563,7 @@
 
                 url: "img/img_uniform_h_277.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）3"
+                caption: "利晶学園大阪立命館3"
 
             },
 
@@ -4571,7 +4571,7 @@
 
                 url: "img/img_uniform_h_278.jpg",
 
-                caption: "利晶学園大阪立命館（現・初芝立命館）4"
+                caption: "利晶学園大阪立命館4"
 
             }
 
