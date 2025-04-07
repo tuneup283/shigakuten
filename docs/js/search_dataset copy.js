@@ -71,8 +71,8 @@
             },
             {
                 "src": "img/07_2.png",
-                "txt": "大阪薫英女学院・高校春夏",
-                "url": "https://www.less-ar.com/b902886e-c314-4c7d-a7fc-aa099d04ea94"
+                "txt": "大阪薫英女学院・高校・女子・冬服スラックス（オプション）",
+                "url": "https://www.less-ar.com/114f74a6-bf01-45b6-a7fe-0edfa1e45fc7"
             },
             {
                 "src": "img/07_3.png",
@@ -1060,8 +1060,8 @@
             },
             {
                 "src": "img/43_3.png",
-                "txt": "大阪信愛学院・女子・中学・夏標準服",
-                "url": "https://www.less-ar.com/2ecb1564-9936-4ea8-bc4a-a4303bdc1dbf"
+                "txt": "大阪信愛学院・女子・夏服・中学",
+                "url": "https://www.less-ar.com/ab95f0ed-3a65-4d08-b6f7-604080cf8fa3"
             },
             {
                 "src": "img/43_4.png",

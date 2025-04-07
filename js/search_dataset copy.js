@@ -1060,8 +1060,8 @@
             },
             {
                 "src": "img/43_3.png",
-                "txt": "大阪信愛学院・女子・中学・夏標準服",
-                "url": "https://www.less-ar.com/2ecb1564-9936-4ea8-bc4a-a4303bdc1dbf"
+                "txt": "大阪信愛学院・女子・夏服・中学",
+                "url": "https://www.less-ar.com/ab95f0ed-3a65-4d08-b6f7-604080cf8fa3"
             },
             {
                 "src": "img/43_4.png",
