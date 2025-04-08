@@ -233,14 +233,14 @@ var school_data = [
 		order: "12",
 		qr: [
 			{
-				src: "img/12_2.png",
-				txt: "中高共通・女子・冬服",
-				url: "https://www.less-ar.com/3c76292b-f7d2-45ae-96f9-94ec2f8d4d2f",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 			{
-				src: "img/12_1.png",
-				txt: "中高共通・女子・夏服",
-				url: "https://www.less-ar.com/d7ce6706-1df7-4d77-b9bc-6e8f22398cda",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 		],
 		id: "j_kinran",
@@ -411,7 +411,7 @@ var school_data = [
 				url: "https://www.less-ar.com/a17e8f7f-6bcf-48b0-8489-7a3ec8077e53",
 			},
 			{
-				src: "img/相愛_高校・女子・カジュアル.png",
+				src: "img/19_5.png",
 				txt: "高校・女子・カジュアルR07新制服",
 				url: "https://www.less-ar.com/becf000a-f0d7-4f57-96ee-c5f3a569387b",
 			},
@@ -673,12 +673,12 @@ var school_data = [
 		qr: [
 			{
 				src: "img/ヴェリタス城星学園_高校・女子・冬服(R7新制服).png",
-				txt: "高校・女子・冬服（R7新制服）",
+				txt: "高校・女子・冬服",
 				url: "https://www.less-ar.com/8f199c47-bf24-4648-be9c-e056d35a4edb",
 			},
 			{
 				src: "img/ヴェリタス城星学園_高校・男子・冬服(R7新制服).png",
-				txt: "高校・男子・冬服（R7新制服）",
+				txt: "高校・男子・冬服",
 				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
 			{
@@ -2230,24 +2230,24 @@ var school_data = [
 		order: "72",
 		qr: [
 			{
-				src: "img/精華_高校・男子・冬服.png",
-				txt: "高校・男子・冬服",
-				url: "https://www.less-ar.com/08add659-bbf3-4610-b2f2-4d79f2df9c80",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 			{
-				src: "img/精華_高校・男子・合服.png",
-				txt: "高校・男子・合服",
-				url: "https://www.less-ar.com/159981a7-f5bd-435a-ab06-6b400fbcc8a0",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 			{
-				src: "img/精華_高校・女子・冬服.png",
-				txt: "高校・女子・冬服",
-				url: "https://www.less-ar.com/60a549f3-e44d-4cd7-b5c4-e8f9dd3b2fcd",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 			{
-				src: "img/精華_高校・女子・合服.png",
-				txt: "高校・女子・合服",
-				url: "https://www.less-ar.com/7eb77692-2665-48c5-8dab-43d090a5e812",
+				src: "",
+				txt: "Coming soon",
+				url: "",
 			},
 		],
 		id: "h_seika",
@@ -3054,7 +3054,7 @@ var school_data = [
 			{
 				src: "img/97_1.png",
 				txt: "高校・女子・標準",
-				url: "https://www.less-ar.com/243b9e0b-a663-4692-b936-03c83d9ebe41",
+				url: "https://www.less-ar.com/63fe656e-f8af-46ed-9d62-a06a1d71aa71",
 			},
 		],
 		id: "h_eihu",
