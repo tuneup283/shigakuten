@@ -2142,24 +2142,36 @@
         "order": "72",
         "qr": [
             {
-                "src": "img/72_1.png",
-                "txt": "精華高校・女子・合服",
-                "url": "https://www.less-ar.com/38e954f9-5440-46f6-9521-436e0c722936"
+                // "src": "img/72_1.png",
+                // "txt": "精華高校・女子・合服",
+                // "url": "https://www.less-ar.com/38e954f9-5440-46f6-9521-436e0c722936"
+                src: "",
+                txt: "Coming soon",
+                url: "",
             },
             {
-                "src": "img/72_2.png",
-                "txt": "精華高校・女子・冬服",
-                "url": "https://www.less-ar.com/6957aabf-552d-4618-8bdb-3f023889eb77"
+                // "src": "img/72_2.png",
+                // "txt": "精華高校・女子・冬服",
+                // "url": "https://www.less-ar.com/6957aabf-552d-4618-8bdb-3f023889eb77"
+                src: "",
+                txt: "Coming soon",
+                url: "",
             },
             {
-                "src": "img/72_3.png",
-                "txt": "精華高校・男子・合服",
-                "url": "https://www.less-ar.com/f1692ac6-1a24-44ae-91c0-69e639f15206"
+                // "src": "img/72_3.png",
+                // "txt": "精華高校・男子・合服",
+                // "url": "https://www.less-ar.com/f1692ac6-1a24-44ae-91c0-69e639f15206"
+                src: "",
+                txt: "Coming soon",
+                url: "",
             },
             {
-                "src": "img/72_4.png",
-                "txt": "精華高校・男子・冬服",
-                "url": "https://www.less-ar.com/9496882b-2444-45a3-9cb9-4158fcde3db6"
+                // "src": "img/72_4.png",
+                // "txt": "精華高校・男子・冬服",
+                // "url": "https://www.less-ar.com/9496882b-2444-45a3-9cb9-4158fcde3db6"
+                src: "",
+                txt: "Coming soon",
+                url: "",
             }
         ],
         "id": "h_seika",

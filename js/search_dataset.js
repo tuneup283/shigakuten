@@ -672,22 +672,22 @@ var school_data = [
 		order: "29",
 		qr: [
 			{
-				src: "img/ヴェリタス城星学園_高校・女子・冬服(R7新制服).png",
+				src: "img/veri_high_gir_win_r7.png",
 				txt: "高校・女子・冬服",
 				url: "https://www.less-ar.com/8f199c47-bf24-4648-be9c-e056d35a4edb",
 			},
 			{
-				src: "img/ヴェリタス城星学園_高校・男子・冬服(R7新制服).png",
+				src: "img/veri_high_men_win_r7.png",
 				txt: "高校・男子・冬服",
 				url: "https://www.less-ar.com/abcb0623-733b-4f87-8ec3-ed9bcba158f4",
 			},
 			{
-				src: "img/ヴェリタス城星学園_高校・女子・夏服.png",
+				src: "img/veri_high_gir_sum.png",
 				txt: "高校・女子・夏服",
 				url: "https://www.less-ar.com/a397977a-15bf-4532-862f-5d91c94353d1",
 			},
 			{
-				src: "img/ヴェリタス城星学園_高校・男子・夏服.png",
+				src: "img/veri_high_men_sum.png",
 				txt: "高校・男子・夏服",
 				url: "https://www.less-ar.com/e0f8a8c5-8e06-437b-a4e0-7473dc836dd2",
 			},
