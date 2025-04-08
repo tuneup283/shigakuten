@@ -233,12 +233,12 @@ var school_data = [
 		order: "12",
 		qr: [
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
@@ -2230,22 +2230,22 @@ var school_data = [
 		order: "72",
 		qr: [
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
 			{
-				src: "",
+				src: "img/comingsoon.png",
 				txt: "Coming soon",
 				url: "",
 			},
