@@ -235,12 +235,12 @@ var school_data = [
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 		],
 		id: "j_kinran",
@@ -2232,22 +2232,22 @@ var school_data = [
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				src: "img/comingsoon.png",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 		],
 		id: "h_seika",

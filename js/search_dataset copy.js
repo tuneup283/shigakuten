@@ -2147,7 +2147,7 @@
                 // "url": "https://www.less-ar.com/38e954f9-5440-46f6-9521-436e0c722936"
                 src: "",
                 txt: "Coming soon",
-                url: "",
+                url: "img/comingsoon.png",
             },
             {
                 // "src": "img/72_2.png",
@@ -2155,7 +2155,7 @@
                 // "url": "https://www.less-ar.com/6957aabf-552d-4618-8bdb-3f023889eb77"
                 src: "",
                 txt: "Coming soon",
-                url: "",
+                url: "img/comingsoon.png",
             },
             {
                 // "src": "img/72_3.png",
@@ -2163,7 +2163,7 @@
                 // "url": "https://www.less-ar.com/f1692ac6-1a24-44ae-91c0-69e639f15206"
                 src: "",
                 txt: "Coming soon",
-                url: "",
+                url: "img/comingsoon.png",
             },
             {
                 // "src": "img/72_4.png",
@@ -2171,7 +2171,7 @@
                 // "url": "https://www.less-ar.com/9496882b-2444-45a3-9cb9-4158fcde3db6"
                 src: "",
                 txt: "Coming soon",
-                url: "",
+                url: "img/comingsoon.png",
             }
         ],
         "id": "h_seika",

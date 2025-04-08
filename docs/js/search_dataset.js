@@ -2230,7 +2230,7 @@ var school_data = [
 				// url: "https://www.less-ar.com/08add659-bbf3-4610-b2f2-4d79f2df9c80",
         src: "",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				// src: "img/精華_高校・男子・合服.png",
@@ -2238,7 +2238,7 @@ var school_data = [
 				// url: "https://www.less-ar.com/159981a7-f5bd-435a-ab06-6b400fbcc8a0",
         src: "",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				// src: "img/精華_高校・女子・冬服.png",
@@ -2246,7 +2246,7 @@ var school_data = [
 				// url: "https://www.less-ar.com/60a549f3-e44d-4cd7-b5c4-e8f9dd3b2fcd",
         src: "",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 			{
 				// src: "img/精華_高校・女子・合服.png",
@@ -2254,7 +2254,7 @@ var school_data = [
 				// url: "https://www.less-ar.com/7eb77692-2665-48c5-8dab-43d090a5e812",
         src: "",
 				txt: "Coming soon",
-				url: "",
+				url: "img/comingsoon.png",
 			},
 		],
 		id: "h_seika",
