@@ -3004,9 +3004,9 @@ var school_data = [
 				url: "https://www.less-ar.com/89df5491-4c68-406e-a5ae-c39e75d5c580",
 			},
 			{
-				src: "img/履正社_中高共通・女子・夏服（ワンピース）.png",
+				src: "img/QR_449945.png",
 				txt: "中高共通・女子・冬服",
-				url: "https://www.less-ar.com/89df5491-4c68-406e-a5ae-c39e75d5c580",
+				url: "https://www.less-ar.com/c9cef601-b3dd-495b-a402-ee06e7d2b2bb",
 			},
 			{
 				src: "img/履正社_高校・男子・冬服.png",
