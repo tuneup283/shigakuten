@@ -233,14 +233,14 @@ var school_data = [
 		order: "12",
 		qr: [
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/12_1.png",
+				txt: "中高共通・女子・冬服",
+				url: "https://www.less-ar.com/3c76292b-f7d2-45ae-96f9-94ec2f8d4d2f",
 			},
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/12_2.png",
+				txt: "中高共通・女子・夏服",
+				url: "https://www.less-ar.com/d7ce6706-1df7-4d77-b9bc-6e8f22398cda",
 			},
 		],
 		id: "j_kinran",
@@ -449,14 +449,14 @@ var school_data = [
 				url: "https://www.less-ar.com/2152beb9-2f42-453d-9187-48e5b99bcd04",
 			},
 			{
-				src: "img/21_4.png",
-				txt: "中学・女子・冬服（代表例）",
-				url: "https://www.less-ar.com/d31de286-93b3-436f-bea4-e7181d03cdf2",
-			},
-			{
 				src: "img/21_1.png",
 				txt: "高校・女子・夏服（代表例）",
 				url: "https://www.less-ar.com/6fb58f13-cea6-4018-aa0b-c217aa59cd99",
+			},
+			{
+				src: "img/21_4.png",
+				txt: "中学・女子・冬服（代表例）",
+				url: "https://www.less-ar.com/d31de286-93b3-436f-bea4-e7181d03cdf2",
 			},
 			{
 				src: "img/21_2.png",
@@ -2230,24 +2230,24 @@ var school_data = [
 		order: "72",
 		qr: [
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/72_1.png",
+				txt: "高校・男子・冬服",
+				url: "https://www.less-ar.com/f025e559-90c7-4764-af08-cbaaedac9a46",
 			},
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/72_2.png",
+				txt: "高校・男子・合服",
+				url: "https://www.less-ar.com/073a08b9-0790-4a2e-bf9b-c2ca717c65e4",
 			},
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/72_3.png",
+				txt: "高校・女子・冬服",
+				url: "https://www.less-ar.com/bd48f8d6-3daa-4ea2-845f-b53fdb668b4f",
 			},
 			{
-				src: "img/comingsoon.png",
-				txt: "Coming soon",
-				url: "img/comingsoon.png",
+				src: "img/72_4.png",
+				txt: "高校・女子・夏服",
+				url: "https://www.less-ar.com/19d3b8cd-2647-4ff5-affc-fae3d3209fab",
 			},
 		],
 		id: "h_seika",
