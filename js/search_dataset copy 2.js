@@ -522,7 +522,7 @@
     },
     {
       "id": "h_hatsushibatondabayashi",
-      "name": "利晶学園",
+      "name": "利晶学園（現：初芝富田林）",
       "school": "高等学校",
       "sex": "共学校"
     },

@@ -1624,7 +1624,7 @@
 
                 url: "img/img_j_055hatsushibatondabayashi_01.jpg",
 
-                caption: "利晶学園1"
+                caption: "利晶学園（現：初芝富田林）1"
 
             },
 
@@ -1632,7 +1632,7 @@
 
                 url: "img/img_j_055hatsushibatondabayashi_02.jpg",
 
-                caption: "利晶学園2"
+                caption: "利晶学園（現：初芝富田林）2"
 
             },
 
@@ -1640,7 +1640,7 @@
 
                 url: "img/img_j_055hatsushibatondabayashi_03.jpg",
 
-                caption: "利晶学園3"
+                caption: "利晶学園（現：初芝富田林）3"
 
             },
 
@@ -1648,7 +1648,7 @@
 
                 url: "img/img_j_055hatsushibatondabayashi_04.jpg",
 
-                caption: "利晶学園4"
+                caption: "利晶学園（現：初芝富田林）4"
 
             }
 
@@ -4485,7 +4485,7 @@
 
                 url: "img/img_uniform_h_271.jpg",
 
-                caption: "利晶学園1"
+                caption: "利晶学園（現：初芝富田林）1"
 
             },
 
@@ -4493,7 +4493,7 @@
 
                 url: "img/img_uniform_h_272.jpg",
 
-                caption: "利晶学園2"
+                caption: "利晶学園（現：初芝富田林）2"
 
             },
 
@@ -4501,7 +4501,7 @@
 
                 url: "img/img_uniform_h_273.jpg",
 
-                caption: "利晶学園3"
+                caption: "利晶学園（現：初芝富田林）3"
 
             },
 
@@ -4509,7 +4509,7 @@
 
                 url: "img/img_uniform_h_274.jpg",
 
-                caption: "利晶学園4"
+                caption: "利晶学園（現：初芝富田林）4"
 
             }
 
