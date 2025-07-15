@@ -2689,7 +2689,7 @@ var school_data = [
 			},
 		],
 		id: "j_hatsushibatondabayashi",
-		name: "初芝富田林",
+		name: "利晶学園",
 		school: ["中学校", "高等学校"],
 		sex: "共学校",
 	},
