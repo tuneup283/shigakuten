@@ -278,11 +278,6 @@ main {
   justify-content: flex-end;
   align-items: center;
 }
-.head_list li {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .head_list li.twitter {
   display: block;
 }
@@ -304,7 +299,7 @@ main {
 .head_list li a p {
   font-size: 1.8rem;
   font-weight: bold;
-  /* display: none; */
+  display: none;
 }
 .head_list li:first-child a, .head_list li:last-child a {
   margin-left: 0;
@@ -481,11 +476,6 @@ main {
   margin: 0 auto;
 }
 
-@media screen and (max-width: 480px) {
-  .mainimg {
-    /* padding-top: 10px; */
-  }
-}
 .mainimg_catch {
   background: radial-gradient(#e50012 15%, #a30000 85%);
   display: table;
@@ -1709,10 +1699,10 @@ main {
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  /* background: #b3b3b3; */
+  justify-content: center;
+  background: #b3b3b3;
   width: 800px;
-  height: 315px;
+  height: 450px;
   margin: 0 auto;
   font-family: "Hind", sans-serif;
   font-size: 3rem;
@@ -1723,12 +1713,11 @@ main {
 @media screen and (max-width: 480px) {
   .movie_cnt {
     width: 100%;
-    height: 400px;
-    flex-direction: column;
+    height: 200px;
   }
   .movie_cnt iframe {
     width: 100%;
-    height: 180px;
+    height: 200px;
   }
 }
 .school .accordion {
@@ -2576,10 +2565,17 @@ main {
 #info .eventCnt_list li .download .btn-08.none {
   display: none;
 }
+#info .eventCnt_list li .download .btn-09 {
+  background: url("../info/img/icon_dl_09.jpg") no-repeat center center;
+  background-size: 100%;
+}
+#info .eventCnt_list li .download .btn-09.none {
+  display: none;
+}
 
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li div.download {
-    justify-content: left;
+    justify-content: space-between;
   }
   #info .eventCnt_list li div.download a.btn {
     width: 20%;
@@ -2704,12 +2700,12 @@ main {
 }
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li .download .btn + .btn {
-    margin-left: 10px;
+    margin-left: 5px;
   }
 }
 @media screen and (max-width: 480px) {
   #info .eventCnt_list li .download .btn:nth-child(5) {
-    margin-left: 10px;
+    margin-left: 0;
   }
 }
 @media screen and (max-width: 480px) {
@@ -2733,7 +2729,6 @@ main {
   #info .eventCnt_list li .download .btn-00 {
     background: #1373c7 url("../info/img/icon_dl_00.png") no-repeat center top 3px;
     background-size: 45px;
-    margin-left: 10px;
   }
 }
 @media screen and (max-width: 480px) {
@@ -3221,13 +3216,3 @@ main {
     margin-top: 20px;
   }
 }/*# sourceMappingURL=style.css.map */
-
-.eventCnt h3{
-  width: 100%;
-        margin-bottom: 20px;
-        padding: 14px 10px;
-        font-size: 1.8rem;
-        font-weight: bold;
-        line-height: 1.2;
-        text-align: center
-}

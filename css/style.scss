@@ -3031,6 +3031,22 @@ main {
 					display: none;
 				}
 			}
+			.btn-08 {
+				background: url("../info/img/icon_dl_08.png") no-repeat center center;
+				background-size: 100%;
+
+				&.none {
+					display: none;
+				}
+			}
+			.btn-09 {
+				background: url("../info/img/icon_dl_09.jpg") no-repeat center center;
+				background-size: 100%;
+
+				&.none {
+					display: none;
+				}
+			}
 		}
 	}
 }

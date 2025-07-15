@@ -278,11 +278,6 @@ main {
   justify-content: flex-end;
   align-items: center;
 }
-.head_list li {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .head_list li.twitter {
   display: block;
 }
@@ -304,7 +299,7 @@ main {
 .head_list li a p {
   font-size: 1.8rem;
   font-weight: bold;
-  /* display: none; */
+  display: none;
 }
 .head_list li:first-child a, .head_list li:last-child a {
   margin-left: 0;
@@ -483,7 +478,7 @@ main {
 
 @media screen and (max-width: 480px) {
   .mainimg {
-    /* padding-top: 10px; */
+    padding-top: 10px;
   }
 }
 .mainimg_catch {
