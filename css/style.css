@@ -1292,6 +1292,24 @@ main {
   padding-bottom: 250px;
   justify-content: center;
 }
+.meetingCnt_videos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin-bottom: 40px;
+	justify-content: center;
+}
+.videoWrap {
+	width: 100%;
+	max-width: 480px;
+	aspect-ratio: 16 / 9;
+}
+.videoWrap iframe {
+	width: 100%;
+	height: 100%;
+	border-radius: 8px;
+	border: none;
+}
 
 @media screen and (max-width: 768px) {
   .meetingCnt {
@@ -1308,6 +1326,17 @@ main {
     padding-bottom: 150px;
     background-size: 100%;
   }
+}
+@media screen and (max-width: 768px) {
+	.meetingCnt_videos {
+		flex-direction: column;
+		align-items: center;
+		gap: 16px;
+	}
+	.videoWrap {
+		max-width: 100%;
+		padding: 0 16px;
+	}
 }
 .meetingCnt_catch {
   position: relative;
