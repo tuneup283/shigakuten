@@ -2645,56 +2645,6 @@ var school_data = [
 		sex: "共学校",
 	},
 	{
-		order: "85",
-		qr: [
-			{
-				src: "img/85_2.png",
-				txt: "高校・女子・冬服",
-				url: "https://www.less-ar.com/c848e334-0b92-4460-8190-d719c4af8f84",
-			},
-			{
-				src: "img/85_1.png",
-				txt: "高校・女子・夏服",
-				url: "https://www.less-ar.com/481b3cb5-a48e-435f-8680-16b789203cb7",
-			},
-			{
-				src: "img/85_6.png",
-				txt: "高校・ユニセックス・冬服",
-				url: "https://www.less-ar.com/c36fda8c-82f2-4efe-bb60-0971c828242d",
-			},
-			{
-				src: "img/85_5.png",
-				txt: "高校・ユニセックス・夏服",
-				url: "https://www.less-ar.com/9e0ea1d2-f33e-4970-a89b-2617c41e7325",
-			},
-			{
-				src: "img/85_4.png",
-				txt: "中学・女子・冬服",
-				url: "https://www.less-ar.com/b30d28d5-7455-4dbb-8ec3-eb69f419ed88",
-			},
-			{
-				src: "img/85_3.png",
-				txt: "中学・女子・夏服",
-				url: "https://www.less-ar.com/23984057-9e80-4563-93a4-552134460b02",
-			},
-			{
-				src: "img/85_8.png",
-				txt: "中学・ユニセックス・冬服",
-				url: "https://www.less-ar.com/4e77599f-0140-4495-a86b-698e7447e050",
-			},
-			{
-				src: "img/85_7.png",
-				txt: "中学・ユニセックス・夏服",
-				url: "https://www.less-ar.com/81b353e6-1f5d-46a8-8acf-eb98bd4c45f8",
-			},
-		],
-		id: "j_hatsushibatondabayashi",
-		name: "利晶学園（現：初芝富田林）",
-		school: ["中学校", "高等学校"],
-		sex: "共学校",
-	},
-
-	{
 		order: "87",
 		qr: [
 			{
@@ -2941,7 +2891,56 @@ var school_data = [
 		school: "高等学校",
 		sex: "共学校",
 	},
-  {
+	{
+		order: "94",
+		qr: [
+			{
+				src: "img/85_2.png",
+				txt: "高校・女子・冬服",
+				url: "https://www.less-ar.com/c848e334-0b92-4460-8190-d719c4af8f84",
+			},
+			{
+				src: "img/85_1.png",
+				txt: "高校・女子・夏服",
+				url: "https://www.less-ar.com/481b3cb5-a48e-435f-8680-16b789203cb7",
+			},
+			{
+				src: "img/85_6.png",
+				txt: "高校・ユニセックス・冬服",
+				url: "https://www.less-ar.com/c36fda8c-82f2-4efe-bb60-0971c828242d",
+			},
+			{
+				src: "img/85_5.png",
+				txt: "高校・ユニセックス・夏服",
+				url: "https://www.less-ar.com/9e0ea1d2-f33e-4970-a89b-2617c41e7325",
+			},
+			{
+				src: "img/85_4.png",
+				txt: "中学・女子・冬服",
+				url: "https://www.less-ar.com/b30d28d5-7455-4dbb-8ec3-eb69f419ed88",
+			},
+			{
+				src: "img/85_3.png",
+				txt: "中学・女子・夏服",
+				url: "https://www.less-ar.com/23984057-9e80-4563-93a4-552134460b02",
+			},
+			{
+				src: "img/85_8.png",
+				txt: "中学・ユニセックス・冬服",
+				url: "https://www.less-ar.com/4e77599f-0140-4495-a86b-698e7447e050",
+			},
+			{
+				src: "img/85_7.png",
+				txt: "中学・ユニセックス・夏服",
+				url: "https://www.less-ar.com/81b353e6-1f5d-46a8-8acf-eb98bd4c45f8",
+			},
+		],
+		id: "j_hatsushibatondabayashi",
+		name: "利晶学園（現：初芝富田林）",
+		school: ["中学校", "高等学校"],
+		sex: "共学校",
+	},
+  	{
 		order: "94",
 		qr: [
 			{
