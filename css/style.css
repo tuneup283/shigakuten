@@ -1315,9 +1315,9 @@ main {
   .meetingCnt {
     width: 100%;
   }
-  .videoWrap {
+  /* .videoWrap {
     margin-bottom:2rem;
-  }
+  } */
   .videoWrap iframe {
     height: 200px;
   }
