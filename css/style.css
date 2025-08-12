@@ -1336,7 +1336,7 @@ main {
 	}
 	.videoWrap {
 		max-width: 100%;
-		padding: 0 16px;
+		padding: 16px 16px;
 	}
 }
 .videoTitle {
